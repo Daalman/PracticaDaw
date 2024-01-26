@@ -1,3 +1,3 @@
 <?php
-echo "Esto es una practica de DAW"
+echo "Esto es una nueva practica de DAW"
 ?>
